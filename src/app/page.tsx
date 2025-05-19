@@ -55,7 +55,9 @@ const page = () => {
             <div>
         <p  className='bg-white text-black'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, exercitationem. Et perspiciatis itaque obcaecati? Porro doloremque velit corporis at autem, laudantium quasi fuga hic, accusantium debitis reiciendis deleniti dolore vero?</p>
       </div>
-
+      <p>
+hhahahhahhahahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+   </p>
    </>
 
 
