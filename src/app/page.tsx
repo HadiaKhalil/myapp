@@ -2,7 +2,7 @@ import React from 'react'
 
 const page = () => {
   return (
-<<<<<<< HEAD
+
    <>
    <div>
     <div>
@@ -25,10 +25,10 @@ const page = () => {
    </div>
    
    
-   </>
-=======
     <div>mra projct hai bhn</div>
->>>>>>> f14ce5c047107e364e1a7e6c745afdb0ce95a121
+   </>
+
+
   )
 }
 
